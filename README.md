@@ -7,7 +7,7 @@
 
 <sub>Windows Desktop · Developer Tooling · Automation · AI-assisted Learning</sub>
 
-[GitHub](https://github.com/yenaipaim) · [Repositories](https://github.com/yenaipaim?tab=repositories) · [EN](https://github.com/yenaipaim/yenaipaim/README_EN.md)
+[GitHub](https://github.com/yenaipaim) · [Repositories](https://github.com/yenaipaim?tab=repositories) · [EN]([EN](https://github.com/yenaipaim/yenaipaim/blob/main/README_EN.md))
 
 </div>
 
